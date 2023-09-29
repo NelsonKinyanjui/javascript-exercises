@@ -1,7 +1,5 @@
-const repeatString = function() {
-for (repeat of repeatString){
-
-}
+const repeatString = function(repeat) {
+ repeat = repeat('hey',3);
 };
 
 // Do not edit below this line
